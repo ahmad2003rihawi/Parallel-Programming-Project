@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # booking_system_ui
 
 A new Flutter project.
@@ -15,3 +16,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# Parallel-Programming-Project
+>>>>>>> 99fe635d5d63c3a7a26b943c348767d2d8ce560e
